@@ -23,7 +23,13 @@ List of coloumns
 * reviews_per_month
 * room_type
 # Analaysis
-Manhattan Host most of airbub new york
+Manhattan Host most of airbub new york.
+most of the manhattan host price to get a entire room will be 211.89
+Private room average price is between in manhattan 116.04.
 Staten island have the most availability of airbub in new york
 # Observation
-Find the neighbourhood group with most airhnb new york and the neighbourhood with most availability ...
+Manhattan Host most of airbub new york.
+most of the manhattan host price to get a entire room will be 211.89
+Private room average price is between in manhattan 116.04.
+Staten island have the most availability of airbub in new york
+Find the neighbourhood group with most airhnb new york and the neighbourhood with most availability.
