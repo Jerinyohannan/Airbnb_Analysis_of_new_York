@@ -1,2 +1,2 @@
 # Airbnb_Analysis_of_new_York
-Airbnb analysis of new_York Using Power Bi 
+Airbnb analysis of New York Using Power Bi 
